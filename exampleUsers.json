@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "login": "example",
+      "password": "password",
+      "email": "exaample.com",
+      "name": "Виктор",
+      "lastname": "Викторов",
+      "avatar": "usersData/avatar/1.png",
+      "key": true
+    },
+    {
+      "id": 2,
+      "login": "example2",
+      "password": "password",
+      "email": "",
+      "name": "Иван",
+      "lastname": "Иванов",
+      "avatar": "usersData/avatar/2.png",
+      "service": true
+    },
+    {
+      "id": 3,
+      "login": "example3",
+      "password": "password",
+      "email": "",
+      "name": "Пётр",
+      "lastname": "Петров",
+      "avatar": "usersData/avatar/3.png"
+    }
+]

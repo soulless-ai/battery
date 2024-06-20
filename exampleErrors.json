@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "autoId": 1,
+        "errorName": "Voltage"
+    },
+    {
+        "id": 2,
+        "autoId": 1,
+        "errorName": "Debug"
+    }
+]
